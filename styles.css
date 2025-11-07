@@ -1,2 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f99;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
 
-/* Your CSS Code here. */
+img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin-top: 10px;
+}
+
+a {
+  color: #0077b5;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+section {
+  background-color: #fff;
+  width: 60%;
+  margin: 20px auto;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+h1 {
+  color: #222;
+}
+
+h2 {
+  color: #444;
+}
+
+ul {
+  list-style-type: square;
+}
